@@ -1,0 +1,16 @@
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.exe
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.deps.json
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.runtimeconfig.json
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.runtimeconfig.dev.json
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.dll
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\ref\Lesson11 28 08.dll
+D:\Job\GitHub\Lesson11 28 08\bin\Debug\net5.0\Lesson11 28 08.pdb
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.csproj.AssemblyReference.cache
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.AssemblyInfoInputs.cache
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.AssemblyInfo.cs
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.csproj.CoreCompileInputs.cache
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.dll
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\ref\Lesson11 28 08.dll
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.pdb
+D:\Job\GitHub\Lesson11 28 08\obj\Debug\net5.0\Lesson11 28 08.genruntimeconfig.cache
